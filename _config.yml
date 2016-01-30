@@ -1,0 +1,28 @@
+name: security
+favicon: null
+layout_spectrum: 0.6849773016292602
+typography_spectrum: 0.4299870850518346
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.16832211217842996
+  lightness: 0.8258114473428577
+  saturation: 0.9938327479176223
+  rhythmicContrast: 0.30658722505904734
+purpose: []
